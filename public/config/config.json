@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3eceA8dec5D26142b835a922f9ef9478C6D58599",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3ecea8dec5d26142b835a922f9ef9478c6d58599",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "drivermfers",
+  "SYMBOL": "DRMF",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/drivermfersnft",
+  "SHOW_BACKGROUND": true
+}
